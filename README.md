@@ -1,5 +1,8 @@
 # Szakdolgozat
 
+LINK: https://colab.research.google.com/drive/1z2OkpmDKEVSLHwzd6tagRWgoqF5W0Mhx?usp=sharing
+
+
 Natural Language Processing: Naive Bayes Classification in Python
 https://medium.com/@eiki1212/natural-language-processing-naive-bayes-classification-in-python-e934365cf40c
 
